@@ -1,17 +1,58 @@
 {
-    "Cheat Sheets":[
-        {
+    "root":{
+        "Cheat Sheets":{
             "Cheat Sheets-General":[
                 {
-                    "Site Name": "OverAPI",
-                    "Hyperlink": "https://overapi.com/",
-                    "Description": "Programming Cheat Sheets"
-                },{
-                    "Site Name": "CheatoGraphy",
-                    "Hyperlink": "https://cheatography.com/",
-                    "Description": "Programming, Software, etc Cheat Sheets"
+                    "Site Name":"OverAPI",
+                    "Hyperlink":"https://overapi.com/",
+                    "Description":"Programming Cheat Sheets"
+                },
+                {
+                    "Site Name":"CheatoGraphy",
+                    "Hyperlink":"https://cheatography.com/",
+                    "Description":"Programming, Software, etc Cheat Sheets"
+                },
+                {
+                    "Site Name":"ShortcutFoo",
+                    "Hyperlink":"https://www.shortcutfoo.com/app/dojos ",
+                    "Description":"Shortcuts for Programming Editors & Apps <br/> Programming Code Snippets"
+                },
+                {
+                    "Site Name":"CheatSheets",
+                    "Hyperlink":"http://www.cheat-sheets.org/",
+                    "Description":"All Cheat Sheets & References"
+                },
+                {
+                    "Site Name":"DevHints",
+                    "Hyperlink":"https://devhints.io/",
+                    "Description":"Cheat Sheets"
+                }
+            ],
+            "Web Development":[
+                {
+                    "Site Name":"HTML5 Reference",
+                    "Hyperlink":"https://dev.w3.org/html5/html-author/",
+                    "Description":"HTML5 Detailed Cheat Sheet"
+                }
+            ]
+        },
+        "Code Editors | IDEs":{
+            "General":[
+                {
+                    "Site Name":"HTML5 Reference",
+                    "Hyperlink":"https://dev.w3.org/html5/html-author/",
+                    "Description":"HTML5 Detailed Cheat Sheet"
+                }
+            ]
+        },
+        "Courses":{
+            "Pheneral":[
+                {
+                    "Site Name":"HTML5 Reference",
+                    "Hyperlink":"https://dev.w3.org/html5/html-author/",
+                    "Description":"HTML5 Detailed Cheat Sheet"
                 }
             ]
         }
-    ]
+    }
 }

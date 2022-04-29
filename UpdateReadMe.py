@@ -5,40 +5,50 @@
 
 import json
 
-def createTable(mainSection, subSection):
-    columns = list(rawData[mainSection][0][subSection][0].keys())
-    line = "Introduction text"
-    output.write(line)
-
-    # | # | Site Name | Hyperlink | Description |
-    line = "\n\n| # | "
+def getHeaderRow(columns):
+    header = ""
+    # | Sr. | Site Name | Hyperlink | Description |
+    header = "\n\n| Sr. | "
     for column in columns:
-        line += column + " | "
+        header += column + " | "
+    return header
+
+def getTableLines(columns):
     # |---|---|---|---|
-    line += "\n| --- |"
+    lines = "\n| --- |"
     for column in columns:
-        line += " --- |"
-    output.write(line)
-
-    newLine()
-    for row in range(len(rawData[mainSection][0][subSection])):
-        output.write("| " + str(row+1) + ". | ")
-        for col in columns:
-            output.write(rawData[mainSection][0][subSection][row][col] + " |")
-        newLine()
-
-    newLine()
+        lines += " --- |"
+    return lines
 
 def newLine():
     output.write("\n")
 
+def createTable(mainSection, subSection):
+    columns = list(rawData[root][mainSection][subSection][0].keys())
+    output.write("## " + subSection)
+    output.write(getHeaderRow(columns))
+    output.write(getTableLines(columns))
+
+    newLine()
+    for row in range(len(rawData[root][mainSection][subSection])):
+        output.write("| " + str(row+1) + ". | ")
+        for col in columns:
+            output.write(rawData[root][mainSection][subSection][row][col] + " | ")
+        newLine()
+
+    # output.write(getTableLines(columns))
+    newLine()
+
 rawFile = open("raw.json")
 rawData = json.load(rawFile)
+root = "root"
 output = open("README.md", "w")
 
-mainSectionList = list(rawData.keys())
+mainSectionList = list(rawData[root].keys())
 for mainSection in mainSectionList:
-    subSectionList = list(rawData[mainSection][0].keys())
+    subSectionList = list(rawData[root][mainSection].keys())
+    subSectionCount = len(subSectionList)
+
     for subSection in subSectionList:
         createTable(mainSection, subSection)
 
