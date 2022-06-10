@@ -231,14 +231,14 @@
   | 7   | [Stanford](http://graphics.stanford.edu/~seander/bithacks.html#OperationCounting)                                                                             | Bit Twiddling Hacks                 |
   | 8   | [LeetCode](https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently) | Bit Manipulation Guide              |
 
-> ### Documentation
->
-> | Sr. | Site Name                                                                              | Description                  |
-> | --- | -------------------------------------------------------------------------------------- | ---------------------------- |
-> | 1   | [DevDocs](https://devdocs.io/)                                                         | API Documentation            |
-> | 2   | [Microsoft](https://developer.microsoft.com/en-us/)                                    | All Microsoft Docs           |
-> | 3   | [EbookFoundation](https://github.com/EbookFoundation/free-programming-books)           | Free Programming Books       |
-> | 4   | [Github](https://github.com/search?o=desc&q=stars%3A>100000&s=stars&type=Repositories) | Most Starred Repos on Github |
+- ### Documentation
+
+  | Sr. | Site Name                                                                              | Description                  |
+  | --- | -------------------------------------------------------------------------------------- | ---------------------------- |
+  | 1   | [DevDocs](https://devdocs.io/)                                                         | API Documentation            |
+  | 2   | [Microsoft](https://developer.microsoft.com/en-us/)                                    | All Microsoft Docs           |
+  | 3   | [EbookFoundation](https://github.com/EbookFoundation/free-programming-books)           | Free Programming Books       |
+  | 4   | [Github](https://github.com/search?o=desc&q=stars%3A>100000&s=stars&type=Repositories) | Most Starred Repos on Github |
 
 - ### Java Docs
 
