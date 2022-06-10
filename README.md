@@ -1,6 +1,7 @@
-# Tools-and-Resources
+# tools-and-resources
 
-## 1. Cheat Sheets
+<details>
+<summary><h2 style='display:inline'>Cheat Sheets</h2></summary>
 
 - ### Cheat Sheets-General
 
@@ -30,7 +31,10 @@
   | 3   | [Shortcuts.Design](https://shortcuts.design/)                                                        | Shortcuts for Designing, Development & Productivity Tools |
   | 4   | [WebFX](https://www.webfx.com/tools/emoji-cheat-sheet/)                                              | Emoji & Sound Cheat Sheet                                 |
 
-## 2. Code Editors | IDEs
+</details>
+
+<details>
+<summary><h2 style='display:inline'>Code Editors | IDEs</h2></summary>
 
 - ### All in One
 
@@ -61,7 +65,10 @@
   | 1   | [PythonTutor](http://pythontutor.com/)                                   | Visualize Code Execution                      |
   | 2   | [Programiz](https://www.programiz.com/java-programming/online-compiler/) | Compiles a small set of Programming languages |
 
-## 3. Courses
+</details>
+
+<details>
+<summary><h2 style='display:inline'>Courses</h2></summary>
 
 - ### Courses-General
 
@@ -85,7 +92,10 @@
   | 7   | [FreeTutorialOnline](http://freetutorialonline.com/)                                            | Free Udemy Courses               |
   | 8   | [Java Masterclass by Tim Buchalka](http://freetutorialonline.com/java-programming-masterclass/) | Java Masterclass by Tim Buchalka |
 
-## 4. Dev Tools
+</details>
+
+<details>
+<summary><h2 style='display:inline'>Dev Tools</h2></summary>
 
 - ### Code Formatting | Sharing
 
@@ -179,7 +189,10 @@
   | 1   | [Lucidchart](https://lucid.app/documents#/documents?folder_id=home) | Make Gantt Charts              |
   | 2   | [AppyPie](https://www.appypie.com/)                                 | No-Code Mobile App Development |
 
-## 5. Educators
+</details>
+
+<details>
+<summary><h2 style='display:inline'>Educators</h2></summary>
 
 | Sr. | Site Name                                                       | Description         |
 | --- | --------------------------------------------------------------- | ------------------- |
@@ -191,7 +204,10 @@
 | 6   | [CSS-Tricks](https://css-tricks.com/)                           | CSS-Tricks          |
 | 7   | [Linktree](https://linktr.ee/takeUforward)                      | Striver \| Linktree |
 
-## 6. Programming
+</details>
+
+<details>
+<summary><h2 style='display:inline'>Programming</h2></summary>
 
 - ### Challenges (Development Problems)
 
@@ -274,7 +290,10 @@
   | 2   | [JavaScript Tutorial](https://www.javascripttutorial.net/)                            | JavaScript Tutorial                                   |
   | 3   | [GitConnected](https://levelup.gitconnected.com/how-to-learn-javascript-839fa03745c8) | Learn JavaScript - by Emma Bostian \| Level Up Coding |
 
-## 7. Resources
+</details>
+
+<details>
+<summary><h2 style='display:inline'>Resources</h2></summary>
 
 | Sr. | Site Name                                    | Description            |
 | --- | -------------------------------------------- | ---------------------- |
@@ -297,7 +316,10 @@
   | 7   | [Overleaf](https://www.overleaf.com/project)                | Resume Maker            |
   | 8   | [CVShine](https://cvshine.standuply.com/)                   | Get Feedback on your CV |
 
-## 8. Utility
+</details>
+
+<details>
+<summary><h2 style='display:inline'>Utility</h2></summary>
 
 - ### Compress \| Convert
 
@@ -361,3 +383,5 @@
 | 2   | [OCRSpace](https://ocr.space/)                 | Best OCR Site + API            |
 | 3   | [Number Empire](https://www.numberempire.com/) | Math Tools                     |
 | 4   | [Ninite](https://ninite.com/)                  | Install / Update Multiple Apps |
+
+</details>
