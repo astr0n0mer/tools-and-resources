@@ -33,20 +33,126 @@
                     "Site Name":"HTML5 Reference",
                     "Hyperlink":"https://dev.w3.org/html5/html-author/",
                     "Description":"HTML5 Detailed Cheat Sheet"
+                },
+                {
+                    "Site Name":"HTML CS",
+                    "Hyperlink":"https://htmlcheatsheet.com/",
+                    "Description":"HTML, CSS, JS Interactive Cheat Sheet "
+                },
+                {
+                    "Site Name":"HTML Entities",
+                    "Hyperlink":"https://dev.w3.org/html5/html-author/charref",
+                    "Description":"List of HTML Entities/Characters"
+                },
+                {
+                    "Site Name":"Markdown CS",
+                    "Hyperlink":"https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md",
+                    "Description":"Markdown Cheat Sheet"
+                }
+            ],
+            "Miscellaneous":[
+                {
+                    "Site Name":"GitConnected",
+                    "Hyperlink":"https://levelup.gitconnected.com/35-website-cheat-sheets-for-developers-f8da96aa84f1",
+                    "Description":"List of 35 Cheat Sheets"
+                },
+                {
+                    "Site Name":"PyAutoGUI",
+                    "Hyperlink":"https://pyautogui.readthedocs.io/en/latest/quickstart.html",
+                    "Description":"PyAutoGUI Cheat Sheet"
+                },
+                {
+                    "Site Name":"Shortcuts.Design",
+                    "Hyperlink":"https://shortcuts.design/",
+                    "Description":"Shortcuts for Designing, Development & Productivity Tools"
+                },
+                {
+                    "Site Name":"WebFX",
+                    "Hyperlink":"https://www.webfx.com/tools/emoji-cheat-sheet/",
+                    "Description":"Emoji & Sound Cheat Sheet"
                 }
             ]
         },
         "Code Editors | IDEs":{
-            "General":[
+            "All in One":[
                 {
-                    "Site Name":"HTML5 Reference",
-                    "Hyperlink":"https://dev.w3.org/html5/html-author/",
-                    "Description":"HTML5 Detailed Cheat Sheet"
+                    "Site Name":"Replit",
+                    "Hyperlink":"https://repl.it/~",
+                    "Description":"All in One online IDE <br/> Has auto-save feature"
+                },
+                {
+                    "Site Name":"NeverInstall",
+                    "Hyperlink":"https://neverinstall.com/",
+                    "Description":"Development & Design Software right inside the browser <br/> Does not have auto-save"
+                },
+                {
+                    "Site Name":"OneCompiler",
+                    "Hyperlink":"https://onecompiler.com/",
+                    "Description":"Compiles Programming, Web and Database Languages"
+                },
+                {
+                    "Site Name":"JDoodle",
+                    "Hyperlink":"https://www.jdoodle.com/",
+                    "Description":"Compiles a lot of Programming Languages"
+                },
+                {
+                    "Site Name":"IDEOne",
+                    "Hyperlink":"https://ideone.com/",
+                    "Description":"A mini JDoodle"
+                },
+                {
+                    "Site Name":"myCompiler",
+                    "Hyperlink":"https://www.mycompiler.io/",
+                    "Description":"Compiles a small set of languages"
+                }
+            ],
+            "Web Development":[
+                {
+                    "Site Name":"Glitch",
+                    "Hyperlink":"https://glitch.com/",
+                    "Description":"All in One solution for Developing and Hosting a Web App"
+                },
+                {
+                    "Site Name":"PlayCode",
+                    "Hyperlink":"https://playcode.io/",
+                    "Description":"Lightweight IDE for Projects"
+                },
+                {
+                    "Site Name":"CodeSandBox",
+                    "Hyperlink":"https://codesandbox.io/",
+                    "Description":"IDE for Web Dev"
+                },
+                {
+                    "Site Name":"StackBlitz",
+                    "Hyperlink":"https://stackblitz.com/",
+                    "Description":"IDE for Web Dev"
+                },
+                {
+                    "Site Name":"CodePen",
+                    "Hyperlink":"https://codepen.io/your-work",
+                    "Description":"Lightweight IDE for practicing code snippets"
+                },
+                {
+                    "Site Name":"JSFiddle",
+                    "Hyperlink":"https://jsfiddle.net/",
+                    "Description":"A CodePen clone"
+                }
+            ],
+            "Miscellaneous":[
+                {
+                    "Site Name":"PythonTutor",
+                    "Hyperlink":"http://pythontutor.com/",
+                    "Description":"Visualize Code Execution"
+                },
+                {
+                    "Site Name":"Programiz",
+                    "Hyperlink":"https://www.programiz.com/java-programming/online-compiler/",
+                    "Description":"Compiles a small set of Programming languages"
                 }
             ]
         },
         "Courses":{
-            "Pheneral":[
+            "TO be changed":[
                 {
                     "Site Name":"HTML5 Reference",
                     "Hyperlink":"https://dev.w3.org/html5/html-author/",

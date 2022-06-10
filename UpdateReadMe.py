@@ -11,14 +11,12 @@ def getHeaderRow(columns):
     header = "\n\n| Sr. | "
     for column in columns:
         header += column + " | "
-    return header
-
-def getTableLines(columns):
+    
     # |---|---|---|---|
-    lines = "\n| --- |"
+    header += "\n| --- |"
     for column in columns:
-        lines += " --- |"
-    return lines
+        header += " --- |"
+    return header
 
 def newLine():
     output.write("\n")
@@ -27,7 +25,6 @@ def createTable(mainSection, subSection):
     columns = list(rawData[root][mainSection][subSection][0].keys())
     output.write("## " + subSection)
     output.write(getHeaderRow(columns))
-    output.write(getTableLines(columns))
 
     newLine()
     for row in range(len(rawData[root][mainSection][subSection])):
@@ -42,7 +39,7 @@ def createTable(mainSection, subSection):
 rawFile = open("raw.json")
 rawData = json.load(rawFile)
 root = "root"
-output = open("README.md", "w")
+output = open("README.md", "a")
 
 mainSectionList = list(rawData[root].keys())
 for mainSection in mainSectionList:
