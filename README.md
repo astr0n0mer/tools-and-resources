@@ -2,35 +2,61 @@
 
 <details>
 <summary><h2 style='display:inline'>Cheat Sheets</h2></summary>
+<ol>
+<li><h3>Cheat Sheets-General</h3></li>
+<table>
+  <thead>
+    <td>Sr.</td>
+    <td>Site Name</td>
+    <td>Description</td>
+  </thead>
+  <tbody>
+  <tr>
+    <td>1</td>
+    <td><a href=https://overapi.com/>OverAPI</a></td>
+    <td>Programming Cheat Sheets</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><a href=https://cheatography.com/>CheatoGraphy</a></td>
+    <td>Programming, Software, etc Cheat Sheets</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><a href=https://www.shortcutfoo.com/app/dojos>ShortcutFoo</a></td>
+    <td>Shortcuts for Programming Editors & Apps <br/> Programming Code Snippets</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td><a href=http://www.cheat-sheets.org/>CheatSheets</a></td>
+    <td>All Cheat Sheets & References</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td><a href=https://devhints.io/>DevHints</a></td>
+    <td>Cheat Sheets</td>
+  </tr>
+  </tbody>
+</table>
+<li><h3>Cheat Sheets-Web Development</h3></li>
 
-- ### Cheat Sheets-General
+| Sr. | Site Name                                                                                  | Description                            |
+| --- | ------------------------------------------------------------------------------------------ | -------------------------------------- |
+| 1   | [HTML5 Reference](https://dev.w3.org/html5/html-author/)                                   | HTML5 Detailed Cheat Sheet             |
+| 2   | [HTML CheatSheet](https://htmlcheatsheet.com/)                                             | HTML, CSS & JS Interactive Cheat Sheet |
+| 3   | [HTML Entities](https://dev.w3.org/html5/html-author/charref)                              | List of HTML Entities/Characters       |
+| 4   | [Markdown CheatSheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md) | Markdown Cheat Sheet                   |
 
-  | Sr. | Site Name                                            | Description                                                              |
-  | --- | ---------------------------------------------------- | ------------------------------------------------------------------------ |
-  | 1   | [OverAPI](https://overapi.com/)                      | Programming Cheat Sheets                                                 |
-  | 2   | [CheatoGraphy](https://cheatography.com/)            | Programming, Software, etc Cheat Sheets                                  |
-  | 3   | [ShortcutFoo](https://www.shortcutfoo.com/app/dojos) | Shortcuts for Programming Editors & Apps <br/> Programming Code Snippets |
-  | 4   | [CheatSheets](http://www.cheat-sheets.org/)          | All Cheat Sheets & References                                            |
-  | 5   | [DevHints](https://devhints.io/)                     | Cheat Sheets                                                             |
+<li><h3>Cheat Sheets-Miscellaneous</h3></li>
 
-- ### Cheat Sheets-Web Development
+| Sr. | Site Name                                                                                            | Description                                               |
+| --- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| 1   | [GitConnected](https://levelup.gitconnected.com/35-website-cheat-sheets-for-developers-f8da96aa84f1) | List of 35 Cheat Sheets                                   |
+| 2   | [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/quickstart.html)                              | PyAutoGUI Cheat Sheet                                     |
+| 3   | [Shortcuts.Design](https://shortcuts.design/)                                                        | Shortcuts for Designing, Development & Productivity Tools |
+| 4   | [WebFX](https://www.webfx.com/tools/emoji-cheat-sheet/)                                              | Emoji & Sound Cheat Sheet                                 |
 
-  | Sr. | Site Name                                                                                  | Description                            |
-  | --- | ------------------------------------------------------------------------------------------ | -------------------------------------- |
-  | 1   | [HTML5 Reference](https://dev.w3.org/html5/html-author/)                                   | HTML5 Detailed Cheat Sheet             |
-  | 2   | [HTML CheatSheet](https://htmlcheatsheet.com/)                                             | HTML, CSS & JS Interactive Cheat Sheet |
-  | 3   | [HTML Entities](https://dev.w3.org/html5/html-author/charref)                              | List of HTML Entities/Characters       |
-  | 4   | [Markdown CheatSheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md) | Markdown Cheat Sheet                   |
-
-- ### Cheat Sheets-Miscellaneous
-
-  | Sr. | Site Name                                                                                            | Description                                               |
-  | --- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-  | 1   | [GitConnected](https://levelup.gitconnected.com/35-website-cheat-sheets-for-developers-f8da96aa84f1) | List of 35 Cheat Sheets                                   |
-  | 2   | [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/quickstart.html)                              | PyAutoGUI Cheat Sheet                                     |
-  | 3   | [Shortcuts.Design](https://shortcuts.design/)                                                        | Shortcuts for Designing, Development & Productivity Tools |
-  | 4   | [WebFX](https://www.webfx.com/tools/emoji-cheat-sheet/)                                              | Emoji & Sound Cheat Sheet                                 |
-
+</ol>
 </details>
 
 <details>
