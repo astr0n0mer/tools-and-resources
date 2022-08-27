@@ -6,9 +6,9 @@ def getHeaderRow(columns):
     # |---|---|---|
     lines = "|---|"
     for column in columns:
-        if column.lower()=="hyperlink":
+        if "link" in column.lower():
             continue
-        header += " " + column.capitalize() + " |"
+        header += " " + column.strip().capitalize() + " |"
         lines += "---|"
 
     header = header + "\n" + lines + "\n"
@@ -17,25 +17,24 @@ def getHeaderRow(columns):
 def createTable(obj, depth):
     if(type(obj)==dict):
         for key in obj.keys():
-            output.write("#"*depth + " " + key + "\n\n")
+            output.write("#"*depth + " " + key.strip() + "\n\n")
             createTable(obj[key], depth+1)
     elif(type(obj)==list):
         output.write(getHeaderRow(obj[0].keys()))
         for i in range(len(obj)):
-            site = list(obj[i].values())[0]
-            hyperlink = list(obj[i].values())[1]
-            description = list(obj[i].values())[2]
+            site = list(obj[i].values())[0].strip()
+            hyperlink = list(obj[i].values())[1].strip()
+            description = list(obj[i].values())[2].strip()
             output.write("| " + str(i+1) + ". | [" + site + "](" + hyperlink + ") | " + description + " |\n")
         output.write("\n")
 
 # -------------------main-------------------
-rawFile = open("raw.json")
-rawData = json.load(rawFile)
+with open("raw.json", 'r') as jsonFile:
+    rawData = json.load(jsonFile)
 output = open("README.md", "w")
 
 depth = 1
 createTable(rawData, depth)
 
-rawFile.close()
 output.close()
 print("Successfully updated README.md")

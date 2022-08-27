@@ -1,164 +1,932 @@
 {
-    "root":{
-        "Cheat Sheets":{
-            "Cheat Sheets-General":[
-                {
-                    "Site Name":"OverAPI",
-                    "Hyperlink":"https://overapi.com/",
-                    "Description":"Programming Cheat Sheets"
-                },
-                {
-                    "Site Name":"CheatoGraphy",
-                    "Hyperlink":"https://cheatography.com/",
-                    "Description":"Programming, Software, etc Cheat Sheets"
-                },
-                {
-                    "Site Name":"ShortcutFoo",
-                    "Hyperlink":"https://www.shortcutfoo.com/app/dojos ",
-                    "Description":"Shortcuts for Programming Editors & Apps <br/> Programming Code Snippets"
-                },
-                {
-                    "Site Name":"CheatSheets",
-                    "Hyperlink":"http://www.cheat-sheets.org/",
-                    "Description":"All Cheat Sheets & References"
-                },
-                {
-                    "Site Name":"DevHints",
-                    "Hyperlink":"https://devhints.io/",
-                    "Description":"Cheat Sheets"
-                }
-            ],
-            "Web Development":[
-                {
-                    "Site Name":"HTML5 Reference",
-                    "Hyperlink":"https://dev.w3.org/html5/html-author/",
-                    "Description":"HTML5 Detailed Cheat Sheet"
-                },
-                {
-                    "Site Name":"HTML CS",
-                    "Hyperlink":"https://htmlcheatsheet.com/",
-                    "Description":"HTML, CSS, JS Interactive Cheat Sheet "
-                },
-                {
-                    "Site Name":"HTML Entities",
-                    "Hyperlink":"https://dev.w3.org/html5/html-author/charref",
-                    "Description":"List of HTML Entities/Characters"
-                },
-                {
-                    "Site Name":"Markdown CS",
-                    "Hyperlink":"https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md",
-                    "Description":"Markdown Cheat Sheet"
-                }
-            ],
-            "Miscellaneous":[
-                {
-                    "Site Name":"GitConnected",
-                    "Hyperlink":"https://levelup.gitconnected.com/35-website-cheat-sheets-for-developers-f8da96aa84f1",
-                    "Description":"List of 35 Cheat Sheets"
-                },
-                {
-                    "Site Name":"PyAutoGUI",
-                    "Hyperlink":"https://pyautogui.readthedocs.io/en/latest/quickstart.html",
-                    "Description":"PyAutoGUI Cheat Sheet"
-                },
-                {
-                    "Site Name":"Shortcuts.Design",
-                    "Hyperlink":"https://shortcuts.design/",
-                    "Description":"Shortcuts for Designing, Development & Productivity Tools"
-                },
-                {
-                    "Site Name":"WebFX",
-                    "Hyperlink":"https://www.webfx.com/tools/emoji-cheat-sheet/",
-                    "Description":"Emoji & Sound Cheat Sheet"
-                }
-            ]
+  "tools-and-resources": {
+    "Cheat Sheets": {
+      "Cheat Sheets-General": [
+        {
+          "site": "OverAPI",
+          "hyperlink": "https://overapi.com/",
+          "description": "Programming Cheat Sheets"
         },
-        "Code Editors | IDEs":{
-            "All in One":[
-                {
-                    "Site Name":"Replit",
-                    "Hyperlink":"https://repl.it/~",
-                    "Description":"All in One online IDE <br/> Has auto-save feature"
-                },
-                {
-                    "Site Name":"NeverInstall",
-                    "Hyperlink":"https://neverinstall.com/",
-                    "Description":"Development & Design Software right inside the browser <br/> Does not have auto-save"
-                },
-                {
-                    "Site Name":"OneCompiler",
-                    "Hyperlink":"https://onecompiler.com/",
-                    "Description":"Compiles Programming, Web and Database Languages"
-                },
-                {
-                    "Site Name":"JDoodle",
-                    "Hyperlink":"https://www.jdoodle.com/",
-                    "Description":"Compiles a lot of Programming Languages"
-                },
-                {
-                    "Site Name":"IDEOne",
-                    "Hyperlink":"https://ideone.com/",
-                    "Description":"A mini JDoodle"
-                },
-                {
-                    "Site Name":"myCompiler",
-                    "Hyperlink":"https://www.mycompiler.io/",
-                    "Description":"Compiles a small set of languages"
-                }
-            ],
-            "Web Development":[
-                {
-                    "Site Name":"Glitch",
-                    "Hyperlink":"https://glitch.com/",
-                    "Description":"All in One solution for Developing and Hosting a Web App"
-                },
-                {
-                    "Site Name":"PlayCode",
-                    "Hyperlink":"https://playcode.io/",
-                    "Description":"Lightweight IDE for Projects"
-                },
-                {
-                    "Site Name":"CodeSandBox",
-                    "Hyperlink":"https://codesandbox.io/",
-                    "Description":"IDE for Web Dev"
-                },
-                {
-                    "Site Name":"StackBlitz",
-                    "Hyperlink":"https://stackblitz.com/",
-                    "Description":"IDE for Web Dev"
-                },
-                {
-                    "Site Name":"CodePen",
-                    "Hyperlink":"https://codepen.io/your-work",
-                    "Description":"Lightweight IDE for practicing code snippets"
-                },
-                {
-                    "Site Name":"JSFiddle",
-                    "Hyperlink":"https://jsfiddle.net/",
-                    "Description":"A CodePen clone"
-                }
-            ],
-            "Miscellaneous":[
-                {
-                    "Site Name":"PythonTutor",
-                    "Hyperlink":"http://pythontutor.com/",
-                    "Description":"Visualize Code Execution"
-                },
-                {
-                    "Site Name":"Programiz",
-                    "Hyperlink":"https://www.programiz.com/java-programming/online-compiler/",
-                    "Description":"Compiles a small set of Programming languages"
-                }
-            ]
+        {
+          "site": "CheatoGraphy",
+          "hyperlink": "https://cheatography.com/",
+          "description": "Programming, Software, etc Cheat Sheets"
         },
-        "Courses":{
-            "TO be changed":[
-                {
-                    "Site Name":"HTML5 Reference",
-                    "Hyperlink":"https://dev.w3.org/html5/html-author/",
-                    "Description":"HTML5 Detailed Cheat Sheet"
-                }
-            ]
+        {
+          "site": "ShortcutFoo",
+          "hyperlink": "https://www.shortcutfoo.com/app/dojos ",
+          "description": "Shortcuts for Programming Editors & Apps <br/> Programming Code Snippets"
+        },
+        {
+          "site": "CheatSheets",
+          "hyperlink": "http://www.cheat-sheets.org/",
+          "description": "All Cheat Sheets & References"
+        },
+        {
+          "site": "DevHints",
+          "hyperlink": "https://devhints.io/",
+          "description": "Cheat Sheets"
         }
+      ],
+      "Web Development": [
+        {
+          "site": "HTML5 Reference",
+          "hyperlink": "https://dev.w3.org/html5/html-author/",
+          "description": "HTML5 Detailed Cheat Sheet"
+        },
+        {
+          "site": "HTML CS",
+          "hyperlink": "https://htmlcheatsheet.com/",
+          "description": "HTML, CSS, JS Interactive Cheat Sheet "
+        },
+        {
+          "site": "HTML Entities",
+          "hyperlink": "https://dev.w3.org/html5/html-author/charref",
+          "description": "List of HTML Entities/Characters"
+        },
+        {
+          "site": "Markdown CS",
+          "hyperlink": "https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md",
+          "description": "Markdown Cheat Sheet"
+        }
+      ],
+      "Miscellaneous": [
+        {
+          "site": "GitConnected",
+          "hyperlink": "https://levelup.gitconnected.com/35-website-cheat-sheets-for-developers-f8da96aa84f1",
+          "description": "List of 35 Cheat Sheets"
+        },
+        {
+          "site": "PyAutoGUI",
+          "hyperlink": "https://pyautogui.readthedocs.io/en/latest/quickstart.html",
+          "description": "PyAutoGUI Cheat Sheet"
+        },
+        {
+          "site": "Shortcuts.Design",
+          "hyperlink": "https://shortcuts.design/",
+          "description": "Shortcuts for Designing, Development & Productivity Tools"
+        },
+        {
+          "site": "WebFX",
+          "hyperlink": "https://www.webfx.com/tools/emoji-cheat-sheet/",
+          "description": "Emoji & Sound Cheat Sheet"
+        }
+      ]
+    },
+    "Code Editors & IDEs": {
+      "All in One": [
+        {
+          "site": "Replit",
+          "hyperlink": "https://repl.it/~",
+          "description": "All in One online IDE <br/> Has auto-save feature"
+        },
+        {
+          "site": "NeverInstall",
+          "hyperlink": "https://neverinstall.com/",
+          "description": "Development & Design Software right inside the browser <br/> Does not have auto-save"
+        },
+        {
+          "site": "OneCompiler",
+          "hyperlink": "https://onecompiler.com/",
+          "description": "Compiles Programming, Web and Database Languages"
+        },
+        {
+          "site": "JDoodle",
+          "hyperlink": "https://www.jdoodle.com/",
+          "description": "Compiles a lot of Programming Languages"
+        },
+        {
+          "site": "IDEOne",
+          "hyperlink": "https://ideone.com/",
+          "description": "A mini JDoodle"
+        },
+        {
+          "site": "myCompiler",
+          "hyperlink": "https://www.mycompiler.io/",
+          "description": "Compiles a small set of languages"
+        }
+      ],
+      "Web Development": [
+        {
+          "site": "Glitch",
+          "hyperlink": "https://glitch.com/",
+          "description": "All in One solution for Developing and Hosting a Web App"
+        },
+        {
+          "site": "PlayCode",
+          "hyperlink": "https://playcode.io/",
+          "description": "Lightweight IDE for Projects"
+        },
+        {
+          "site": "CodeSandBox",
+          "hyperlink": "https://codesandbox.io/",
+          "description": "IDE for Web Dev"
+        },
+        {
+          "site": "StackBlitz",
+          "hyperlink": "https://stackblitz.com/",
+          "description": "IDE for Web Dev"
+        },
+        {
+          "site": "CodePen",
+          "hyperlink": "https://codepen.io/your-work",
+          "description": "Lightweight IDE for practicing code snippets"
+        },
+        {
+          "site": "JSFiddle",
+          "hyperlink": "https://jsfiddle.net/",
+          "description": "A CodePen clone"
+        }
+      ],
+      "Miscellaneous": [
+        {
+          "site": "PythonTutor",
+          "hyperlink": "http://pythontutor.com/",
+          "description": "Visualize Code Execution"
+        },
+        {
+          "site": "Programiz",
+          "hyperlink": "https://www.programiz.com/java-programming/online-compiler/",
+          "description": "Compiles a small set of Programming languages"
+        }
+      ]
+    },
+    "Courses": {
+      "Courses-General": [
+        {
+          "site": "HTML5 Reference",
+          "hyperlink": "https://dev.w3.org/html5/html-author/",
+          "description": "HTML5 Detailed Cheat Sheet"
+        },
+        {
+          "site": "Eduonix",
+          "hyperlink": "https://www.eduonix.com/dashboard",
+          "description": "All Courses"
+        },
+        {
+          "site": "Codecademy",
+          "hyperlink": "https://www.codecademy.com/catalog",
+          "description": "All Courses"
+        },
+        {
+          "site": "TheOdinProject",
+          "hyperlink": "https://www.theodinproject.com/#",
+          "description": "Web Dev Course"
+        },
+        {
+          "site": "JetBrains Academy",
+          "hyperlink": "https://hyperskill.org/study-plan",
+          "description": "Web Dev Course"
+        }
+      ],
+      "Free Courses": [
+        {
+          "site": "DigitalDefynd",
+          "hyperlink": "https://digitaldefynd.com/",
+          "description": "Free Courses"
+        },
+        {
+          "site": "100OffDeal",
+          "hyperlink": "https://100offdeal.online/",
+          "description": "Free Courses"
+        },
+        {
+          "site": "FreeWebCart",
+          "hyperlink": "https://www.freewebcart.com",
+          "description": "Free Udemy Courses"
+        },
+        {
+          "site": "DiscUdemy",
+          "hyperlink": "https://www.discudemy.com/",
+          "description": "Free Udemy Courses"
+        },
+        {
+          "site": "Coupon4u",
+          "hyperlink": "https://coupon4u.org/",
+          "description": "Free Udemy Courses"
+        },
+        {
+          "site": "FreeCourseSite",
+          "hyperlink": "https://freecoursesite.com/",
+          "description": "Free Udemy Courses"
+        },
+        {
+          "site": "FreeTutorialOnline",
+          "hyperlink": "http://freetutorialonline.com/",
+          "description": "Free Udemy Courses"
+        },
+        {
+          "site": "Java Masterclass by Tim Buchalka",
+          "hyperlink": "http://freetutorialonline.com/java-programming-masterclass/",
+          "description": "Java Masterclass by Tim Buchalka"
+        }
+      ]
+    },
+    "Dev Tools": {
+      "Code Formatting & Sharing": [
+        {
+          "site": "CodeImg",
+          "hyperlink": "https://codeimg.io/",
+          "description": "Format & Share code"
+        },
+        {
+          "site": "Pastebin",
+          "hyperlink": "https://pastebin.com/",
+          "description": "Share code"
+        },
+        {
+          "site": "CodeBeautify",
+          "hyperlink": "https://codebeautify.org/",
+          "description": "Format code"
+        }
+      ],
+      "Color Tools": [
+        {
+          "site": "Fluent UI Theme Designer",
+          "hyperlink": "https://fluentuipr.z22.web.core.windows.net/heads/master/theming-designer/index.html",
+          "description": "Fluent UI Theme Designer"
+        },
+        {
+          "site": "Image Color Picker",
+          "hyperlink": "https://imagecolorpicker.com/",
+          "description": "Image Color Picker"
+        },
+        {
+          "site": "Coolors",
+          "hyperlink": "https://coolors.co/",
+          "description": "Color Schemes Generator"
+        },
+        {
+          "site": "Adobe Color Wheel",
+          "hyperlink": "https://color.adobe.com/create/color-wheel",
+          "description": "Color Palette Generator"
+        }
+      ],
+      "CSS Tools": [
+        {
+          "site": "CSS Layout",
+          "hyperlink": "https://csslayout.io/",
+          "description": "Collection of Layouts & Patterns"
+        },
+        {
+          "site": "CSS Generator",
+          "hyperlink": "https://cssgenerator.org/text-shadow-css-generator.html",
+          "description": "Text Shadow Generator"
+        },
+        {
+          "site": "CSS Gradient",
+          "hyperlink": "https://cssgradient.io/",
+          "description": "CSS Gradient & Background Generator"
+        },
+        {
+          "site": "CSSmatic",
+          "hyperlink": "https://www.cssmatic.com/",
+          "description": "Gradient, Box Shadow Tool"
+        }
+      ],
+      "Designing & Editing": [
+        {
+          "site": "VistaCreate",
+          "hyperlink": "https://create.vista.com/home/",
+          "description": "Graphic Design App"
+        },
+        {
+          "site": "Canva",
+          "hyperlink": "https://www.canva.com/",
+          "description": "Graphic Design App"
+        },
+        {
+          "site": "SVGator",
+          "hyperlink": "https://www.svgator.com/",
+          "description": "SVG Animator"
+        },
+        {
+          "site": "PatternPad",
+          "hyperlink": "https://patternpad.com/editor.html",
+          "description": "Create Patterns"
+        },
+        {
+          "site": "MDN",
+          "hyperlink": "https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Tools_for_SVG",
+          "description": "SVG Tools"
+        },
+        {
+          "site": "PhotoPea",
+          "hyperlink": "https://www.photopea.com/",
+          "description": "Complete Photo Editor"
+        },
+        {
+          "site": "PhotoScissors",
+          "hyperlink": "https://photoscissors.com/tutorials/online/how-to-make-transparent-background",
+          "description": "Make Images’ background transparent"
+        },
+        {
+          "site": "Veed",
+          "hyperlink": "https://www.veed.io/",
+          "description": "Video Editor & Compressor"
+        },
+        {
+          "site": "Clideo",
+          "hyperlink": "https://clideo.com/tools",
+          "description": "Video Editor & Compressor"
+        }
+      ],
+      "Fonts": [
+        {
+          "site": "Font Flipper",
+          "hyperlink": "https://fontflipper.com/upload",
+          "description": "Free Fonts"
+        },
+        {
+          "site": "Google Fonts",
+          "hyperlink": "https://fonts.google.com/",
+          "description": "Free Fonts"
+        },
+        {
+          "site": "CSS Font Stack",
+          "hyperlink": "https://www.cssfontstack.com/",
+          "description": "Free Fonts"
+        },
+        {
+          "site": "Fontjoy",
+          "hyperlink": "https://fontjoy.com/",
+          "description": "Create Font Pairings"
+        },
+        {
+          "site": "Font Squirrel",
+          "hyperlink": "https://www.fontsquirrel.com/matcherator",
+          "description": "Get Fonts from Images"
+        }
+      ],
+      "Icons": [
+        {
+          "site": "FontAwesome",
+          "hyperlink": "https://fontawesome.com/icons?d=gallery&m=free",
+          "description": "Free Icons"
+        },
+        {
+          "site": "IconMonstr",
+          "hyperlink": "https://iconmonstr.com/",
+          "description": "Free Icons"
+        },
+        {
+          "site": "IconFinder",
+          "hyperlink": "https://www.iconfinder.com/",
+          "description": "Free Icons"
+        }
+      ],
+      "Stock Graphics": [
+        {
+          "site": "SameEnergy",
+          "hyperlink": "https://same.energy/",
+          "description": "Image Search Engine"
+        },
+        {
+          "site": "Pexels",
+          "hyperlink": "https://www.pexels.com/",
+          "description": "Stock Photos"
+        },
+        {
+          "site": "Pixabay",
+          "hyperlink": "https://pixabay.com/",
+          "description": "Stock Photos"
+        },
+        {
+          "site": "unSplash",
+          "hyperlink": "https://unsplash.com/",
+          "description": "Stock Photos"
+        },
+        {
+          "site": "unDraw",
+          "hyperlink": "https://undraw.co/illustrations",
+          "description": "Illustrations"
+        },
+        {
+          "site": "Icons8",
+          "hyperlink": "https://icons8.com/illustrations",
+          "description": "Illustrations"
+        },
+        {
+          "site": "FreePik",
+          "hyperlink": "https://www.freepik.com/",
+          "description": "Stock Photos, Vectors, PSD"
+        }
+      ],
+      "WhiteBoards": [
+        {
+          "site": "Google Jamboard",
+          "hyperlink": "https://jamboard.google.com/",
+          "description": "White Board"
+        },
+        {
+          "site": "WebWhiteboard",
+          "hyperlink": "https://webwhiteboard.com/",
+          "description": "White Board"
+        }
+      ],
+      "More Tools": [
+        {
+          "site": "SmallDev.Tools",
+          "hyperlink": "https://smalldev.tools/",
+          "description": "Tools"
+        },
+        {
+          "site": "TinyWow",
+          "hyperlink": "https://tinywow.com/",
+          "description": "Tools"
+        },
+        {
+          "site": "Telegraph",
+          "hyperlink": "https://telegra.ph/100-Free-Tools-And-Resources-Youre-Gonna-Love-01-16",
+          "description": "Tools & Resources"
+        }
+      ],
+      "Dev Tools-Miscellaneous": [
+        {
+          "site": "Lucidchart",
+          "hyperlink": "https://lucid.app/documents#/documents?folder_id=home",
+          "description": "Make Gantt Charts"
+        },
+        {
+          "site": "AppyPie",
+          "hyperlink": "https://www.appypie.com/",
+          "description": "No-Code Mobile App Development"
+        }
+      ]
+    },
+    "Educators": [
+      {
+        "site": "RoadMap.sh",
+        "hyperlink": "https://roadmap.sh/",
+        "description": "Dev RoadMaps"
+      },
+      {
+        "site": "Github-liuchong",
+        "hyperlink": "https://github.com/liuchong/awesome-roadmaps",
+        "description": "Dev RoadMaps"
+      },
+      {
+        "site": "Dev.to",
+        "hyperlink": "https://dev.to/",
+        "description": "Dev Community"
+      },
+      {
+        "site": "Daily.dev",
+        "hyperlink": "https://daily.dev/",
+        "description": "Dev Articles"
+      },
+      {
+        "site": "SkillShack.dev",
+        "hyperlink": "https://skillshack.dev/",
+        "description": "Dev Articles"
+      },
+      {
+        "site": "CSS-Tricks",
+        "hyperlink": "https://css-tricks.com/",
+        "description": "CSS-Tricks"
+      },
+      {
+        "site": "Linktree",
+        "hyperlink": "https://linktr.ee/takeUforward",
+        "description": "Striver - Linktree"
+      }
+    ],
+    "Programming": {
+      "Challenges (Development Problems)": [
+        {
+          "site": "100DaysCSS",
+          "hyperlink": "https://100dayscss.com/",
+          "description": "Web Dev Problems"
+        },
+        {
+          "site": "AceFrontEnd",
+          "hyperlink": "https://www.acefrontend.com/",
+          "description": "Web Dev Problems"
+        },
+        {
+          "site": "Codier",
+          "hyperlink": "https://codier.io/",
+          "description": "Front-end Problems"
+        },
+        {
+          "site": "FrontEndMentor",
+          "hyperlink": "https://www.frontendmentor.io/",
+          "description": "Front-end Problems"
+        }
+      ],
+      "Challenges (Coding Problems)": [
+        {
+          "site": "CodeWars",
+          "hyperlink": "https://www.codewars.com/",
+          "description": "Coding Problems"
+        },
+        {
+          "site": "CoderByte",
+          "hyperlink": "https://coderbyte.com/",
+          "description": "Coding Problems"
+        }
+      ],
+      "DBMS": [
+        {
+          "site": "SqlShack",
+          "hyperlink": "https://www.sqlshack.com/sql-server-training/",
+          "description": " SQL Server Training"
+        },
+        {
+          "site": "SQL Joins",
+          "hyperlink": "https://joins.spathon.com/",
+          "description": " SQL Joins"
+        },
+        {
+          "site": "DAX Guide",
+          "hyperlink": "https://dax.guide/",
+          "description": " DAX Guide"
+        },
+        {
+          "site": "Hightouch",
+          "hyperlink": "https://hightouch.io/",
+          "description": " Create database without SQL"
+        }
+      ],
+      "DSA": [
+        {
+          "site": "USACO Guide",
+          "hyperlink": "https://usaco.guide/",
+          "description": "USACO Guide"
+        },
+        {
+          "site": "YouTube-Neetcode",
+          "hyperlink": "https://www.youtube.com/watch?v=SVvr3ZjtjI8",
+          "description": "How I Got Good at Coding Interviews"
+        },
+        {
+          "site": "LeetCode - Blind",
+          "hyperlink": "https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions",
+          "description": "Blind - 75 LeetCode Questions"
+        },
+        {
+          "site": "Striver's SDE Sheet",
+          "hyperlink": "https://docs.google.com/document/u/0/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/mobilebasic",
+          "description": "Striver's SDE Sheet"
+        },
+        {
+          "site": "CareerGuru99",
+          "hyperlink": "https://career.guru99.com/",
+          "description": "Interview Questions & Answers"
+        },
+        {
+          "site": "CS CMU",
+          "hyperlink": "https://www.cs.cmu.edu/~clo/www/CMU/DataStructures/",
+          "description": "Data Structures & Algorithms"
+        },
+        {
+          "site": "Stanford",
+          "hyperlink": "http://graphics.stanford.edu/~seander/bithacks.html#OperationCounting",
+          "description": "Bit Twiddling Hacks"
+        },
+        {
+          "site": "LeetCode",
+          "hyperlink": "https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently",
+          "description": "Bit Manipulation Guide"
+        }
+      ],
+      "Documentation": [
+        {
+          "site": "DevDocs",
+          "hyperlink": "https://devdocs.io/",
+          "description": "API Documentation"
+        },
+        {
+          "site": "Microsoft",
+          "hyperlink": "https://developer.microsoft.com/en-us/",
+          "description": "All Microsoft Docs"
+        },
+        {
+          "site": "EbookFoundation",
+          "hyperlink": "https://github.com/EbookFoundation/free-programming-books",
+          "description": "Free Programming Books"
+        },
+        {
+          "site": "Github",
+          "hyperlink": "https://github.com/search?o=desc&q=stars%3A>100000&s=stars&type=Repositories",
+          "description": "Most Starred Repos on Github"
+        }
+      ],
+      "Java Documentation": [
+        {
+          "site": "Oracle",
+          "hyperlink": "https://docs.oracle.com/javase/tutorial/index.html",
+          "description": "The Java Tutorials"
+        },
+        {
+          "site": "Oracle",
+          "hyperlink": "https://docs.oracle.com/javase/tutorial/java/TOC.html",
+          "description": "Learning the Java Language: ToC"
+        },
+        {
+          "site": "JournalDev",
+          "hyperlink": "https://www.journaldev.com/7153/core-java-tutorial",
+          "description": "Core Java"
+        },
+        {
+          "site": "HowToDoInJava",
+          "hyperlink": "https://howtodoinjava.com/java/basics/java-tutorial/#6-learning-java",
+          "description": "HowToDoInJava"
+        },
+        {
+          "site": "YouTube-Coding with John",
+          "hyperlink": "https://www.youtube.com/watch?v=ftKBLu47u_U",
+          "description": "Project Lombok"
+        },
+        {
+          "site": "JFreeChart",
+          "hyperlink": "https://www.jfree.org/jfreechart/",
+          "description": "JFreeChart"
+        }
+      ],
+      "JavaFX Documentation": [
+        {
+          "site": "JavaFX",
+          "hyperlink": "https://openjfx.io/",
+          "description": "JavaFX"
+        },
+        {
+          "site": "Jenkov",
+          "hyperlink": "http://tutorials.jenkov.com/javafx/index.html",
+          "description": "JavaFX tutorial"
+        },
+        {
+          "site": "Oracle",
+          "hyperlink": "https://docs.oracle.com/javafx/2/ui_controls/jfxpub-ui_controls.pdf",
+          "description": "Using JavaFX UI Controls"
+        }
+      ],
+      "Python Documentation": [
+        {
+          "site": "Automate the Boring Stuff with Python",
+          "hyperlink": "https://automatetheboringstuff.com/2e/chapter20/",
+          "description": "Automate the Boring Stuff with Python"
+        },
+        {
+          "site": "Practice Python",
+          "hyperlink": "http://www.practicepython.org/",
+          "description": "Python practice problems"
+        }
+      ],
+      "Web Development": [
+        {
+          "site": "Netlify",
+          "hyperlink": "https://sde-resources.netlify.app/",
+          "description": "Learn Web Dev"
+        },
+        {
+          "site": "JavaScript Tutorial",
+          "hyperlink": "https://www.javascripttutorial.net/",
+          "description": "JavaScript Tutorial"
+        },
+        {
+          "site": "GitConnected",
+          "hyperlink": "https://levelup.gitconnected.com/how-to-learn-javascript-839fa03745c8",
+          "description": "Learn JavaScript - by Emma Bostian - Level Up Coding"
+        }
+      ]
+    },
+    "Resources": {
+      "Resources-General": [
+        {
+          "site": "lumpysoft",
+          "hyperlink": "https://lumpysoft.com/",
+          "description": "Google Index Search"
+        },
+        {
+          "site": "PDF Drive",
+          "hyperlink": "https://www.pdfdrive.com/",
+          "description": "Search & download PDFs"
+        },
+        {
+          "site": "Z-Library",
+          "hyperlink": "https://z-lib.org/",
+          "description": "Z-Library"
+        },
+        {
+          "site": "Telegram",
+          "hyperlink": "https://telegramchannels.me/",
+          "description": "Telegram Resources"
+        },
+        {
+          "site": "Project Tunnel",
+          "hyperlink": "https://projecttunnel.com/",
+          "description": "Projects"
+        }
+      ],
+      "Job related": [
+        {
+          "site": "ReLevel",
+          "hyperlink": "https://relevel.com/",
+          "description": "Jobs"
+        },
+        {
+          "site": "GeeksForGeeks",
+          "hyperlink": "https://practice.geeksforgeeks.org/jobs#",
+          "description": "Jobs"
+        },
+        {
+          "site": "Crossover",
+          "hyperlink": "https://www.crossover.com/",
+          "description": "Remote Jobs"
+        },
+        {
+          "site": "Turing",
+          "hyperlink": "https://www.turing.com/",
+          "description": "Remote Jobs"
+        },
+        {
+          "site": "UserTesting",
+          "hyperlink": "https://www.usertesting.com/get-paid-to-test",
+          "description": "Get Paid To User Test"
+        },
+        {
+          "site": "Polywork",
+          "hyperlink": "https://www.polywork.com/",
+          "description": "Portfolio Maker"
+        },
+        {
+          "site": "Overleaf",
+          "hyperlink": "https://www.overleaf.com/project",
+          "description": "Resume Maker"
+        },
+        {
+          "site": "CVShine",
+          "hyperlink": "https://cvshine.standuply.com/",
+          "description": "Get Feedback on your CV"
+        }
+      ]
+    },
+    "Utility": {
+      "Compress & Convert": [
+        {
+          "site": "Online-Convert",
+          "hyperlink": "https://www.online-convert.com/",
+          "description": "Convert Tools"
+        },
+        {
+          "site": "FreeConvert",
+          "hyperlink": "https://www.freeconvert.com/",
+          "description": "Convert & Compress Tools"
+        },
+        {
+          "site": "TinyPNG",
+          "hyperlink": "https://tinypng.com/",
+          "description": "Compress PNGs"
+        }
+      ],
+      "Torrents & Mods": [
+        {
+          "site": "MoviesVerse",
+          "hyperlink": "https://moviesverse.org.in/",
+          "description": "Movies & Series"
+        },
+        {
+          "site": "KatmovieHD",
+          "hyperlink": "https://katmoviehd.sx/",
+          "description": "Movies & Series"
+        },
+        {
+          "site": "KatmovieHD",
+          "hyperlink": "https://katmoviehd.proxybit.monster/",
+          "description": "Movies & Series"
+        },
+        {
+          "site": "Yify Movies",
+          "hyperlink": "https://moviesyify.online/",
+          "description": "Watch Movies & TV Series"
+        },
+        {
+          "site": "Pirate Proxy.wtf",
+          "hyperlink": "https://pirateproxy.wtf/",
+          "description": "Pirate Bay Proxy List"
+        },
+        {
+          "site": "Pirate Proxy.ink",
+          "hyperlink": "https://pirateproxy.ink/",
+          "description": "Torrent website"
+        },
+        {
+          "site": "an1",
+          "hyperlink": "https://an1.com/",
+          "description": "Mod Games for Android & more"
+        },
+        {
+          "site": "Justice League",
+          "hyperlink": "https://onlyjusticeleague.blogspot.com/",
+          "description": "Justice League animated videos"
+        }
+      ],
+      "PDF Tools": [
+        {
+          "site": "PDF 2 DOC",
+          "hyperlink": "https://pdf2doc.com/",
+          "description": "PDF<-->DOC, PDF<-->JPG, PDF<-->PNG, PDF Compressor <br/>, Combine PDF, Rotate PDF, Unlock PDF, Crop PDF"
+        },
+        {
+          "site": "pdf2go",
+          "hyperlink": "https://www.pdf2go.com/create-searchable-pdf",
+          "description": "Make PDF Searchable"
+        },
+        {
+          "site": "PDF24 Tools",
+          "hyperlink": "https://tools.pdf24.org/en/merge-pdf",
+          "description": "Merge PDF-No size limits"
+        },
+        {
+          "site": "11zon",
+          "hyperlink": "https://bigpdf.11zon.com/en/compress-pdf/",
+          "description": "Compress PDF to given size"
+        },
+        {
+          "site": "PDF resizer",
+          "hyperlink": "https://pdfresizer.com/",
+          "description": "Crop PDF & PDF resizer"
+        },
+        {
+          "site": "Ave PDF",
+          "hyperlink": "https://avepdf.com/en/hyper-compress-pdf",
+          "description": "Hyper-Compress & Optimize PDF"
+        },
+        {
+          "site": "iLovePDF",
+          "hyperlink": "https://www.ilovepdf.com/",
+          "description": "PDF tools"
+        }
+      ],
+      "Share Files": [
+        {
+          "site": "ToffeeShare",
+          "hyperlink": "https://toffeeshare.com/",
+          "description": "Share Files"
+        },
+        {
+          "site": "SnapDrop",
+          "hyperlink": "https://snapdrop.net/",
+          "description": "Share Files"
+        }
+      ],
+      "Teaching Tools": [
+        {
+          "site": "Dispy",
+          "hyperlink": "https://dispy.in/",
+          "description": "Web Presentations"
+        },
+        {
+          "site": "Shaalaa",
+          "hyperlink": "https://www.shaalaa.com/question-bank-solutions?type=courses&c=maharashtra-state-board-ssc-hsc-ssc-10th-english-medium-class-10th-board-exam_662&r=textbook-solutions&subjects=3277",
+          "description": "Solutions for SSC"
+        },
+        {
+          "site": "Meritnation",
+          "hyperlink": "https://www.meritnation.com/maharashtra-class-10/91",
+          "description": "SSC Study Materials"
+        }
+      ],
+      "Wallpapers": [
+        {
+          "site": "UHDPaper",
+          "hyperlink": "https://www.uhdpaper.com/",
+          "description": "Wallpapers"
+        },
+        {
+          "site": "HDQWalls",
+          "hyperlink": "https://hdqwalls.com/",
+          "description": "Wallpapers"
+        },
+        {
+          "site": "WallpapersWide",
+          "hyperlink": "http://wallpaperswide.com/",
+          "description": "Wallpapers"
+        }
+      ],
+      "Utility-General": [
+        {
+          "site": "Resoomer",
+          "hyperlink": "https://resoomer.com/en/",
+          "description": "Text Summarizer"
+        },
+        {
+          "site": "OCRSpace",
+          "hyperlink": "https://ocr.space/",
+          "description": "Best OCR Site + API"
+        },
+        {
+          "site": "Number Empire",
+          "hyperlink": "https://www.numberempire.com/",
+          "description": "Math Tools"
+        },
+        {
+          "site": "Ninite",
+          "hyperlink": "https://ninite.com/",
+          "description": "Install / Update Multiple Apps"
+        }
+      ]
     }
+  }
 }
