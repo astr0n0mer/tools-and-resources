@@ -1,11 +1,11 @@
 {
   "pending_downloads": {
     "yt_videos": [
-      "https://www.youtube.com/watch?v=kyLuzKbgXAs",
-      "https://www.youtube.com/watch?v=lBpapBz32h0",
-      "https://www.youtube.com/watch?v=XJoFZQqTZ5g&list=qwerty"
+      "https://www.youtube.com/watch?v=_k-F-MMvQV4"
     ],
-    "yt_playlists": []
+    "yt_playlists": [
+      "https://www.youtube.com/playlist?list=PL0vfts4VzfNiI1BsIK5u7LpPaIDKMJIDN"
+    ]
   },
   "download_location": "./youtube-downloads",
   "download_file_format": "mp3",
