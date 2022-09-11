@@ -49,8 +49,8 @@
 |---|---|---|
 | 1. | [Glitch](https://glitch.com/) | All in One solution for Developing and Hosting a Web App |
 | 2. | [PlayCode](https://playcode.io/) | Lightweight IDE for Projects |
-| 3. | [CodeSandBox](https://codesandbox.io/) | IDE for Web Dev |
-| 4. | [StackBlitz](https://stackblitz.com/) | IDE for Web Dev |
+| 3. | [CodeSandBox](https://codesandbox.io/) | IDE for Web Development |
+| 4. | [StackBlitz](https://stackblitz.com/) | IDE for Web Development |
 | 5. | [CodePen](https://codepen.io/your-work) | Lightweight IDE for practicing code snippets |
 | 6. | [JSFiddle](https://jsfiddle.net/) | A CodePen clone |
 
@@ -67,11 +67,10 @@
 
 | Sr. | Site | Description |
 |---|---|---|
-| 1. | [HTML5 Reference](https://dev.w3.org/html5/html-author/) | HTML5 Detailed Cheat Sheet |
-| 2. | [Eduonix](https://www.eduonix.com/dashboard) | All Courses |
-| 3. | [Codecademy](https://www.codecademy.com/catalog) | All Courses |
-| 4. | [TheOdinProject](https://www.theodinproject.com/#) | Web Dev Course |
-| 5. | [JetBrains Academy](https://hyperskill.org/study-plan) | Web Dev Course |
+| 1. | [Eduonix](https://www.eduonix.com/dashboard) | All Courses |
+| 2. | [Codecademy](https://www.codecademy.com/catalog) | All Courses |
+| 3. | [TheOdinProject](https://www.theodinproject.com/#) | Web Development Course |
+| 4. | [JetBrains Academy](https://hyperskill.org/study-plan) | Web Development Course |
 
 ### Free Courses
 
@@ -86,7 +85,7 @@
 | 7. | [FreeTutorialOnline](http://freetutorialonline.com/) | Free Udemy Courses |
 | 8. | [Java Masterclass by Tim Buchalka](http://freetutorialonline.com/java-programming-masterclass/) | Java Masterclass by Tim Buchalka |
 
-## Dev Tools
+## Development Tools
 
 ### Code Formatting & Sharing
 
@@ -210,6 +209,14 @@
 | 1. | [CodeWars](https://www.codewars.com/) | Coding Problems |
 | 2. | [CoderByte](https://coderbyte.com/) | Coding Problems |
 
+### Web Development
+
+| Sr. | Site | Description |
+|---|---|---|
+| 1. | [Netlify](https://sde-resources.netlify.app/) | Learn Web Development |
+| 2. | [JavaScript Tutorial](https://www.javascripttutorial.net/) | JavaScript Tutorial |
+| 3. | [GitConnected](https://levelup.gitconnected.com/how-to-learn-javascript-839fa03745c8) | Learn JavaScript - by Emma Bostian - Level Up Coding |
+
 ### DBMS
 
 | Sr. | Site | Description |
@@ -267,14 +274,6 @@
 | 1. | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/chapter20/) | Automate the Boring Stuff with Python |
 | 2. | [Practice Python](http://www.practicepython.org/) | Python practice problems |
 
-### Web Development
-
-| Sr. | Site | Description |
-|---|---|---|
-| 1. | [Netlify](https://sde-resources.netlify.app/) | Learn Web Dev |
-| 2. | [JavaScript Tutorial](https://www.javascripttutorial.net/) | JavaScript Tutorial |
-| 3. | [GitConnected](https://levelup.gitconnected.com/how-to-learn-javascript-839fa03745c8) | Learn JavaScript - by Emma Bostian - Level Up Coding |
-
 ## Resources
 
 ### Resources-General
@@ -327,7 +326,7 @@
 
 | Sr. | Site | Description |
 |---|---|---|
-| 1. | [PDF 2 DOC](https://pdf2doc.com/) | PDF<-->DOC, PDF<-->JPG, PDF<-->PNG, PDF Compressor <br/>, Combine PDF, Rotate PDF, Unlock PDF, Crop PDF |
+| 1. | [PDF 2 DOC](https://pdf2doc.com/) | PDF<-->DOC, PDF<-->JPG, PDF<-->PNG, PDF Compressor <br/>Combine PDF, Rotate PDF, Unlock PDF, Crop PDF |
 | 2. | [pdf2go](https://www.pdf2go.com/create-searchable-pdf) | Make PDF Searchable |
 | 3. | [PDF24 Tools](https://tools.pdf24.org/en/merge-pdf) | Merge PDF-No size limits |
 | 4. | [11zon](https://bigpdf.11zon.com/en/compress-pdf/) | Compress PDF to given size |

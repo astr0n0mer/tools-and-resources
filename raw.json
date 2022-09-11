@@ -120,12 +120,12 @@
         {
           "site": "CodeSandBox",
           "hyperlink": "https://codesandbox.io/",
-          "description": "IDE for Web Dev"
+          "description": "IDE for Web Development"
         },
         {
           "site": "StackBlitz",
           "hyperlink": "https://stackblitz.com/",
-          "description": "IDE for Web Dev"
+          "description": "IDE for Web Development"
         },
         {
           "site": "CodePen",
@@ -154,11 +154,6 @@
     "Courses": {
       "Courses-General": [
         {
-          "site": "HTML5 Reference",
-          "hyperlink": "https://dev.w3.org/html5/html-author/",
-          "description": "HTML5 Detailed Cheat Sheet"
-        },
-        {
           "site": "Eduonix",
           "hyperlink": "https://www.eduonix.com/dashboard",
           "description": "All Courses"
@@ -171,12 +166,12 @@
         {
           "site": "TheOdinProject",
           "hyperlink": "https://www.theodinproject.com/#",
-          "description": "Web Dev Course"
+          "description": "Web Development Course"
         },
         {
           "site": "JetBrains Academy",
           "hyperlink": "https://hyperskill.org/study-plan",
-          "description": "Web Dev Course"
+          "description": "Web Development Course"
         }
       ],
       "Free Courses": [
@@ -222,7 +217,7 @@
         }
       ]
     },
-    "Dev Tools": {
+    "Development Tools": {
       "Code Formatting & Sharing": [
         {
           "site": "CodeImg",
@@ -526,6 +521,23 @@
           "description": "Coding Problems"
         }
       ],
+      "Web Development": [
+        {
+          "site": "Netlify",
+          "hyperlink": "https://sde-resources.netlify.app/",
+          "description": "Learn Web Development"
+        },
+        {
+          "site": "JavaScript Tutorial",
+          "hyperlink": "https://www.javascripttutorial.net/",
+          "description": "JavaScript Tutorial"
+        },
+        {
+          "site": "GitConnected",
+          "hyperlink": "https://levelup.gitconnected.com/how-to-learn-javascript-839fa03745c8",
+          "description": "Learn JavaScript - by Emma Bostian - Level Up Coding"
+        }
+      ],
       "DBMS": [
         {
           "site": "SqlShack",
@@ -672,23 +684,6 @@
           "hyperlink": "http://www.practicepython.org/",
           "description": "Python practice problems"
         }
-      ],
-      "Web Development": [
-        {
-          "site": "Netlify",
-          "hyperlink": "https://sde-resources.netlify.app/",
-          "description": "Learn Web Dev"
-        },
-        {
-          "site": "JavaScript Tutorial",
-          "hyperlink": "https://www.javascripttutorial.net/",
-          "description": "JavaScript Tutorial"
-        },
-        {
-          "site": "GitConnected",
-          "hyperlink": "https://levelup.gitconnected.com/how-to-learn-javascript-839fa03745c8",
-          "description": "Learn JavaScript - by Emma Bostian - Level Up Coding"
-        }
       ]
     },
     "Resources": {
@@ -826,7 +821,7 @@
         {
           "site": "PDF 2 DOC",
           "hyperlink": "https://pdf2doc.com/",
-          "description": "PDF<-->DOC, PDF<-->JPG, PDF<-->PNG, PDF Compressor <br/>, Combine PDF, Rotate PDF, Unlock PDF, Crop PDF"
+          "description": "PDF<-->DOC, PDF<-->JPG, PDF<-->PNG, PDF Compressor <br/>Combine PDF, Rotate PDF, Unlock PDF, Crop PDF"
         },
         {
           "site": "pdf2go",
