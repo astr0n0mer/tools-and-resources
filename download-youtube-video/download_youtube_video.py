@@ -78,10 +78,18 @@ if(len(videos) > 0):
 if(len(playlists) > 0):
     createDownloadLocation(location)
     for playlistURL in playlists:
+        try:
+            videoDownloadLimit = int(playlistURL.split("&limit=")[1].split("&")[0])
+        except IndexError as ie:
+            videoDownloadLimit = 2**31 - 1 # Maximum int value for int32 variable
         playlistObj = Playlist(playlistURL)
         isPlaylistDownloaded = True
+        numberOfVideosDownloaded = 0
         for videoObj in playlistObj.videos:
+            if(numberOfVideosDownloaded >= videoDownloadLimit):
+                break
             isPlaylistDownloaded = isPlaylistDownloaded and downloadVideo(location, fileFormat, videoObj, playlistObj)
+            numberOfVideosDownloaded += 1
         if(isPlaylistDownloaded):
             updateArchive(playlistURL, "playlist")
 
