@@ -4,7 +4,7 @@
       "https://www.youtube.com/watch?v=_k-F-MMvQV4"
     ],
     "yt_playlists": [
-      "https://www.youtube.com/playlist?list=PL0vfts4VzfNiI1BsIK5u7LpPaIDKMJIDN"
+      "https://www.youtube.com/playlist?list=PL0vfts4VzfNiI1BsIK5u7LpPaIDKMJIDN&limit=10"
     ]
   },
   "download_location": "./youtube-downloads",
