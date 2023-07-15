@@ -23,6 +23,7 @@ def downloadVideo(downloadLocation, downloadFileFormat, videoObj, playlistObj = 
         print("File already exists: " + videoObj.title)
     else:
         try:
+            print(f"Downloading {videoObj.title}")
             if(downloadFileFormat == "mp3"):
                 # mp4AudioFile = videoObj.streams.filter(only_audio = True).first().download(downloadLocation)
                 mp4AudioFile = videoObj.streams.get_audio_only().download(downloadLocation)
